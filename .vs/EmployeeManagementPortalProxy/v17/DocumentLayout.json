@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneMainProxyPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|d:\\onemainproxyportal\\employeeproxyportal\\client\\httpclientfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|solutionrelative:employeeproxyportal\\client\\httpclientfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|d:\\onemainproxyportal\\employeeproxyportal\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|solutionrelative:employeeproxyportal\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|d:\\onemainproxyportal\\employeeproxyportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|solutionrelative:employeeproxyportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|d:\\onemainproxyportal\\employeeproxyportal\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|solutionrelative:employeeproxyportal\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|d:\\onemainproxyportal\\employeeproxyportal\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|solutionrelative:employeeproxyportal\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|d:\\onemainproxyportal\\employeeproxyportal\\controllers\\jobtitlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|solutionrelative:employeeproxyportal\\controllers\\jobtitlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|d:\\onemainproxyportal\\employeeproxyportal\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|solutionrelative:employeeproxyportal\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|d:\\onemainproxyportal\\employeeproxyportal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|solutionrelative:employeeproxyportal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|d:\\onemainproxyportal\\employeeproxyportal\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|solutionrelative:employeeproxyportal\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|d:\\onemainproxyportal\\employeeproxyportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|solutionrelative:employeeproxyportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|d:\\onemainproxyportal\\employeeproxyportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B74F23D1-76F2-40D4-B70E-5E22AC822BFF}|EmployeeProxyPortal\\EmployeeProxyPortal.csproj|solutionrelative:employeeproxyportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "EmployeeProxyPortal\\Controllers\\EventsController.cs",
+              "ToolTip": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "EmployeeProxyPortal\\Controllers\\EventsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:05:37.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobTitlesController.cs",
+              "DocumentMoniker": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Controllers\\JobTitlesController.cs",
+              "RelativeDocumentMoniker": "EmployeeProxyPortal\\Controllers\\JobTitlesController.cs",
+              "ToolTip": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Controllers\\JobTitlesController.cs",
+              "RelativeToolTip": "EmployeeProxyPortal\\Controllers\\JobTitlesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:39:54.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "EmployeeProxyPortal\\Controllers\\ProjectsController.cs",
+              "ToolTip": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "EmployeeProxyPortal\\Controllers\\ProjectsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:24:22.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeProxyPortal\\Program.cs",
+              "ToolTip": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Program.cs",
+              "RelativeToolTip": "EmployeeProxyPortal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:15:34.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HttpClientFile.cs",
+              "DocumentMoniker": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Client\\HttpClientFile.cs",
+              "RelativeDocumentMoniker": "EmployeeProxyPortal\\Client\\HttpClientFile.cs",
+              "ToolTip": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Client\\HttpClientFile.cs",
+              "RelativeToolTip": "EmployeeProxyPortal\\Client\\HttpClientFile.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:15:19.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeProxyPortal\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeProxyPortal\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:21:16.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "EmployeeProxyPortal\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "EmployeeProxyPortal\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwDAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:45:36.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "EmployeeProxyPortal\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "EmployeeProxyPortal\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:38:04.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EmployeeProxyPortal\\Models\\User.cs",
+              "ToolTip": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Models\\User.cs",
+              "RelativeToolTip": "EmployeeProxyPortal\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:39:53.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "EmployeeProxyPortal\\Models\\Project.cs",
+              "ToolTip": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\Models\\Project.cs",
+              "RelativeToolTip": "EmployeeProxyPortal\\Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:33:55.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeProxyPortal\\appsettings.json",
+              "ToolTip": "D:\\OneMainProxyPortal\\EmployeeProxyPortal\\appsettings.json",
+              "RelativeToolTip": "EmployeeProxyPortal\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T21:33:17.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
